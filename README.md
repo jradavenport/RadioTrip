@@ -3,6 +3,8 @@ RadioTrip
 
 *A work in progress*
 
+**NOTE**: You'll need [this file](https://www.fcc.gov/media/radio/fm-service-contour-data-points) from the FCC to run the code
+
 ## Goals
 
 - Map the genre of every FM (and maybe AM) radio station throughout the US
